@@ -549,7 +549,7 @@ namespace WinSearchDBAnalyzer
 
         private void toolStripStatusLabel1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://moaistory.blogspot.com/2018/10/winsearchdbanalyzer.html");
+            System.Diagnostics.Process.Start("https://github.com/AndrewRathbun/WinSearchDBAnalyzer");
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)

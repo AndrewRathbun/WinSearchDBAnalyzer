@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 어셈블리와 관련된 정보를 수정하려면
 // 이 특성 값을 변경하십시오.
 [assembly: AssemblyTitle("WinSearchDBAnalyzer")]
-[assembly: AssemblyDescription("This tool parse records and recovery deleted records from Windows.edb")]
+[assembly: AssemblyDescription("This tool parses records and recovers deleted records from Windows.edb")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jeonghyeon Kim")]
 [assembly: AssemblyProduct("WinSearchDBAnalyzer")]
